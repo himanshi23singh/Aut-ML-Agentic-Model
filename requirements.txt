@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+xgboost
+streamlit
+reportlab
+shap
+matplotlib
+joblib
+lime
+nltk
